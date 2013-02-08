@@ -25,7 +25,7 @@ markdown
 python-dateutil
 
 # The manager interface
-requests
+requests>=1.0.0
 
 # Testing, validating, and debugging
 nose
